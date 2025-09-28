@@ -22,3 +22,4 @@ sudo gdebi -nq armory.deb
 
 curl -fsS --retry 10 https://bootstrap.pypa.io/get-pip.py | sudo python
 sudo /usr/local/bin/pip install -q protobuf scrypt pylibscrypt coincurve pysha3 green
+LKJH
