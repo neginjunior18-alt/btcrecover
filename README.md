@@ -38,7 +38,7 @@ If you find *btcrecover* helpful, please consider a small donation:
      * [MultiDoge](http://multidoge.org/)
      * [Dogecoin Wallet for Android](http://dogecoin.com/) encrypted backups
  * Bitcoin & Ethereum seed recovery support for:
-     * [Electrum](https://electrum.org/) (1.x and 2.x, plus wallet file loading support)
+     * [Electrum](https://electrum.org/) (1.x and 2.x, plus wallet file loading )
      * BIP-32/39 compliant wallets ([bitcoinj](https://bitcoinj.github.io/)), including:
          * [MultiBit HD](https://multibit.org/)
          * [Bitcoin Wallet for Android/BlackBerry](https://play.google.com/store/apps/details?id=de.schildbach.wallet) (with seeds previously extracted by [decrypt\_bitcoinj\_seeds](https://github.com/gurnec/decrypt_bitcoinj_seed))
